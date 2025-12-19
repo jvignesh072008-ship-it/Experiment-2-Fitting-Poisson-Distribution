@@ -12,9 +12,22 @@ Python and Visual Component Tool
 3. Here, λ = mean number of occurrences, and e = 2.718 (base of natural logarithm).
 4. The mean and variance of a Poisson distribution are both equal to λ.
 5. Applicable when events occur independently, singly, and at a constant rate.
-# Algorithm
-<img width="1144" height="412" alt="image" src="https://github.com/user-attachments/assets/6bf357bd-7ba2-4908-8c93-ef74e4747a4f" />
 
+# Algorithm
+```
+
+
+
+
+
+
+
+
+
+
+
+
+```
 # Program
  Name: Rougith D
  Reg No: 25017014
@@ -80,5 +93,8 @@ https://colab.research.google.com/drive/1-Szfd-jtp9SabY55tLotmtePtCw4rB8o?usp=sh
 <img width="1309" height="411" alt="Screenshot 2025-11-17 140719" src="https://github.com/user-attachments/assets/b1f202c9-d68f-4ed8-b6e2-7ceb5bcbab3e" />
 
 # Result
-The Poisson Distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
+```
+
+
+```
 
