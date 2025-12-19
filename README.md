@@ -32,9 +32,11 @@ Python and Visual Component Tool
 
 ```
 # Program
- Name: Rougith D
- Reg No: 25017014
- Slot Name: 3P1-1
+```
+ Name: Vignesh J
+ Reg No: 25014705
+ Slot Name: 4J3-1
+```
 ```
 import numpy as np 
 import math 
